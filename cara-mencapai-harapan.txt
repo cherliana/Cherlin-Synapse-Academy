@@ -1,5 +1,5 @@
 Cara mencapai harapan
 1. Saya harus belajar design
-  a. saya belajat html
-  saya belajar css
+  a. saya belajar html
 2. Saya harus belajar pemrograman
+  a. saya belajar php
